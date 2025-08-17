@@ -10,9 +10,6 @@
 <h4>😄 He is Aslan, he is a man. 😄</h4>
 <h4>⚡ I am a big fan of rain, especially when it’s slow and calm — it’s the perfect atmosphere for creativity!</h4>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=600&lines=Web+Developer;Love+Rain+%26+Clean+Design;Let's+build+something+cool" alt="typing svg"/>
-</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aslansoft&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E4405F&icon_color=F8D866" height="150" style="margin-right: 20px;" />
