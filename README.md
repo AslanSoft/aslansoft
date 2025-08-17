@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 You can find me on Telegram @noirscript and on Instagram @iminjanoof
 - 😄 He is Aslan, he is a man. 😄
 - ⚡ I am a big fan of rain, especially when it’s slow and calm — it’s the perfect atmosphere for creativity!
+
+
