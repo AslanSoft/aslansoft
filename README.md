@@ -1,4 +1,6 @@
-<h1 align="center">Hi! 👋, I'm Aslan Iminjanov</h1>
+<h1 align="center">Hi! 👋, <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=600&lines=Web+Developer;Love+Rain+%26+Clean+Design;Let's+build+something+cool" alt="typing svg"/>
+</p>
 <h4 align="center">🔭 Right now, I am working on multiple projects and I want to make my projects as professional as possible with all my heart because I absolutely love this job.</h4>
 <h4>🌱 I am currently studying to become a web developer, and I love my job so much. Day by day, this work becomes more and more exciting, and everything here is really cool and interesting</h4>
 <h4>👯 I would be very happy to work in a team and learn from professionals because every drop of useful advice would, in one day, become for me a vast ocean of inspiration and make my work easier.</h4>
