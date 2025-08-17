@@ -9,7 +9,16 @@
 <h4>⚡ I am a big fan of rain, especially when it’s slow and calm — it’s the perfect atmosphere for creativity!</h4>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslansoft&show_icons=true&locale=ru" alt="aslansoft" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aslansoft&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E4405F&icon_color=F8D866" alt="aslansoft stats" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslansoft&theme=radical&hide_border=true&background=0D1117&ring=E4405F&fire=FF6B6B&currStreakLabel=F8D866" alt="aslansoft streak" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aslansoft&bg_color=0D1117&color=F8D866&line=E4405F&point=FFFFFF&hide_border=true" alt="aslansoft activity graph" />
+
 </div>
 
 <h3 align="left">Поддержка и инструменты:</h3>
