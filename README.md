@@ -13,12 +13,6 @@
 </div>
 
 
-<h3 align="left">Get in touch with me:</h3>
-<p align="left">
-<a href="https://instagram.com/aslanoof" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aslanoof" height="50" width="120" /></a>
-  <a href="https://t.me/noirmindlife" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aslanoof" height="50" width="120" /></a>
-</p>
-
 <h3 align="left">Поддержка и инструменты:</h3>
 
 <table>
@@ -58,3 +52,11 @@
     </td>
   </tr>
 </table>
+
+
+<h3 align="left">Get in touch with me:</h3>
+<p align="left">
+<a href="https://instagram.com/aslanoof" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aslanoof" height="50" width="120" /></a>
+  <a href="https://t.me/noirmindlife" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aslanoof" height="50" width="120" /></a>
+</p>
+
