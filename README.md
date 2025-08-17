@@ -12,7 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aslansoft&show_icons=true&locale=ru" alt="aslansoft" />
 </div>
 
-
 <h3 align="left">Поддержка и инструменты:</h3>
 
 <table>
