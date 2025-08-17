@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋, <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=600&lines=Web+Developer;Love+Rain+%26+Clean+Design;Let's+build+something+cool" alt="typing svg"/>
 </p>
 <h4 align="center">🔭 Right now, I am working on multiple projects and I want to make my projects as professional as possible with all my heart because I absolutely love this job.</h4>
