@@ -11,7 +11,7 @@
 <h3 align="left">Get in touch with me:</h3>
 <p align="left">
 <a href="https://instagram.com/aslanoof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aslanoof" height="30" width="40" /></a>
-  <a href="https://t.me/noirmindlife" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg" alt="aslanoof" height="30" width="40" /></a>
+  <a href="https://t.me/noirmindlife" target="blank"><img align="center" src="https://https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="aslanoof" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Поддержка:</h3>
